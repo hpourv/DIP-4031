@@ -1,4 +1,4 @@
 ## منابع پبشنهادی برای دوستانی که آشنایی کمی با زبان برنامه‌نویسی متلب دارند:
-- Google Colab Tutorial for Beginners | Get Started with Google Colab
+- MATLAB Crash Course for Beginners
   
-  https://www.youtube.com/watch?v=RLYoEyIHL6A
+  https://www.youtube.com/watch?v=7f50sQYjNRA&t=19s
