@@ -6,6 +6,7 @@
 - Learn Python - Full Course for Beginners
 
   https://www.youtube.com/watch?v=rfscVS0vtbw&t=4473s
+  
 پیشنهاد می‌شود بعد از این که با مباحث مقدماتی زبان پایتون را یاد گرفتید، ویدئو‌ی مربوط به کتاب‌خانه‌ی NumPy را هم ببینید چرا که قطعا در انجام تمرین‌ها به آن نیاز خواهید داشت.
 - Python NumPy Tutorial for Beginners
 
