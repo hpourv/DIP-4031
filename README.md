@@ -1,8 +1,8 @@
-### منابع پیشنهادی برای آشنایی مقدماتی با زبان برنامه‌نویسی متلب:
+## منابع پیشنهادی برای آشنایی مقدماتی با زبان برنامه‌نویسی متلب:
 - MATLAB Crash Course for Beginners
   
   https://www.youtube.com/watch?v=7f50sQYjNRA&t=19s
-### منابع پیشنهادی برای آشنایی مقدماتی با زبان برنامه‌نویسی پایتون:
+## منابع پیشنهادی برای آشنایی مقدماتی با زبان برنامه‌نویسی پایتون:
 - Learn Python - Full Course for Beginners
 
   https://www.youtube.com/watch?v=rfscVS0vtbw&t=4473s
